@@ -2,7 +2,7 @@
   <h1 align="center">HTML Practice</h1>
   <p align="center"> <br />
     <br />
-    <img src="img/screenshot.png" width="656" height="785" />
+    <img src="img/screehshot.png" width="656" height="785" />
     <h2 align="left">Features</h2>
     
   * figcaption
