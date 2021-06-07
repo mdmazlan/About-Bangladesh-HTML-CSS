@@ -13,7 +13,6 @@
   * HTML iframe Tag
   * HTML HTML embed Tag
   * HTML marquee tag
-  * HTML figcaption Tag
   * HTML table Tag table
   </p>
 </p>
