@@ -1,9 +1,9 @@
 <p align="center">
-https://mdmazlan.github.io/About-Bangladesh-HTML-CSS/  
-  <h1 align="center">HTML Practice</h1>
+https://mdmazlan.github.io/Table-Flex-Pattern/  
+<h1 align="center">Table Flex Pattern</h1>
   <p align="center"> <br />
     <br />
-    <img src="img/screehshot.png" width="656" height="785" />
+    <img src="https://mdmazlan.github.io/Table-Flex-Pattern/" width="656" height="785" />
     <h2 align="left">Features</h2>
     
   * hyperlink 
